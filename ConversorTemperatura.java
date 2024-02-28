@@ -5,7 +5,7 @@ class HelloWorld {
         
         Scanner scanner = new Scanner(System.in);
        
-        int celsius = 0;
+        double celsius = 0;
      
         System.out.println("Informe o valor em Celsius para converter");
         celsius = scanner.nextInt();
